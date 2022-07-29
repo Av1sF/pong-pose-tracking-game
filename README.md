@@ -25,6 +25,8 @@ Install the following python packages:
   - [NumPy](https://pypi.org/project/numpy/)
   
 Clone the repo...
-> $ git clone https://github.com/Av1sF/pong-pose-tracking-game
+```
+ $ git clone https://github.com/Av1sF/pong-pose-tracking-game
+```
 
 Open the cloned repo in an IDE! 
