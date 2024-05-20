@@ -9,7 +9,7 @@ Python Ver. 3.9
 
 Combines the use of MobileNet SDD object detection and MediaPipe pose estimation for
 limited multi-person tracking. Has the purpose of 1 person detection each on the left and right side
-of the camera and outputs the x,y coordinates of right wrist. (with inheritance) 
+of the camera and outputs the x,y coordinates of right wrist.
 
 [all of these could be adjusted]
 Max no. of people detected: 2
