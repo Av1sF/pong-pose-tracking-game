@@ -1,6 +1,7 @@
 # Pong Pose Tracking Game
 
 ###### Play pong with another friend with pose detection!
+###### Warning: bad coding conventions, I wrote this in HS 
 
 It works by...
 
